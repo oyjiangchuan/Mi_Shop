@@ -4,12 +4,18 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 
+import store from './store/index' 
+import VueLazyLoad from 'vue-lazyload' // 引入vue-lazyload 实现图片的懒加载
+
+import './assets/css/reset.css'
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
   router,
+  store,
   components: { App },
   template: '<App/>'
 })

@@ -1,5 +1,12 @@
 # vue-mi-shop
 
+# vue-mi-shop 项目依赖
+1. npm install vue-lazyload --save      实现图片的懒加载依赖
+2. npm install axios --save -dev        axios依赖
+3. npm install stylus --save-dev        安装stylus
+4. npm install stylus-loader --save-dev 安装stylus-loader
+5. npm install vuex                     安装vuex
+
 > A Vue.js project
 
 ## Build Setup

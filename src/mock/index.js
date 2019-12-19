@@ -1,0 +1,6 @@
+const Mock = require('mockjs')
+Mock.mock('/seckillDate', 'get', require('./json/seckill.json'))
+Mock.mock('/mainPage', 'get', require('./json/mainPage.json'))
+Mock.mock('/navCategory', 'get', require('./json/ProductData.json'))
+Mock.mock('/navMenu', 'get', require('./json/navMenu.json'))
+Mock.mock('/cart', 'get', require('./json/cartRecommend.json'))

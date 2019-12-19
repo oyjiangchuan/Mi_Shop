@@ -1,0 +1,833 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "list": {
+      "list": [
+        {
+          "img": {
+            "bannerBox_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3e63ab43e7c32296f18f34c8efb41534.jpg?thumb=1&w=1226&h=120&f=webp&q=90",
+            "brick_promo_list_img": [
+              {
+                "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/574c6643ab91c6618bfb2d0e2c761d0b.jpg?thumb=1&w=234&h=614&f=webp&q=90",
+                "href": "https://www.mi.com/mixalpha"
+              }
+            ]
+          },
+          "brickList": {
+            "title": "手机",
+            "type": {
+              "list": [
+                {
+                  "item_2": [
+                    {
+                      "title": "小米9 Pro 5G",
+                      "desc": "5G双卡全网通，骁龙855Plus",
+                      "presentPrice": "3699",
+                      "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ca9b4f81af709935556bef9aa21a90e8.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "Redmi 8",
+                      "desc": "5000mAh超长续航",
+                      "presentPrice": "799",
+                      "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d295c4fb500d163a7045dc715b47f808.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "Redmi Note 8 Pro",
+                      "desc": "6400万全场景四摄",
+                      "presentPrice": "1399",
+                      "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6f2493e6c6fe8e2485c407e5d75e3651.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "Redmi Note 8",
+                      "desc": "千元4800万四摄",
+                      "presentPrice": "999",
+                      "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4c87947d104ee5833913e4c520108f16.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "Redmi K20 Pro 尊享版",
+                      "desc": "骁龙855 Plus， 弹出全面屏",
+                      "presentPrice": "2699",
+                      "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8737a33c78a94bc36afb860ab23b3939.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "Redmi Note 7",
+                      "desc": "4800万拍照千元机",
+                      "presentPrice": "1099",
+                      "originPrice": "1399",
+                      "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0ce61b71e2f81df62bd0c05aaa901d22.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "Redmi 7",
+                      "desc": "4000mAh超长续航",
+                      "presentPrice": "899",
+                      "originPrice": "999",
+                      "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9aab8a7fa9005ef918c9aa2d5f17c806.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "Redmi 7A",
+                      "desc": "小巧大电量 持久流畅",
+                      "presentPrice": "539",
+                      "originPrice": "599",
+                      "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3c1af9783bdc53ed843af5655ca92009.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "img": {
+            "bannerBox_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/59e8fc8ba9718c266882719fb4bbcedd.jpg?thumb=1&w=1226&h=120&f=webp&q=90",
+            "brick_promo_list_img": [
+              {
+                "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b56fd90a60e3d9e5d87dae9fbd427ea8.jpg?thumb=1&w=234&h=300&f=webp&q=90",
+                "href": "https://www.mi.com/mixalpha"
+              },
+              {
+                "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b67de5a8ce9025fb5d8bac66e019d1c3.jpg?thumb=1&w=234&h=300&f=webp&q=90",
+                "href": "https://www.mi.com/mixalpha"
+              }
+            ]
+          },
+          "brickList": {
+            "title": "家电",
+            "type": {
+              "list": [
+                {
+                  "content": "热门",
+                  "item_2": [
+                    {
+                      "title": "米家互联网空调C1（一级能效）",
+                      "desc": "变频节能省电，自清洁",
+                      "presentPrice": "2249",
+                      "originPrice": "2799",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8ce424d6fe93dfb74733b5838140b7ee.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "米家空调",
+                      "desc": "出众静音，快速制冷热",
+                      "presentPrice": "1549",
+                      "originPrice": "1799",
+                      "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2b911be4c2f156bb6e4cf367c6080045.jpg?thumb=1&w=200&h=200"
+                    },
+                    {
+                      "title": "米家互联网洗烘一体机 Pro 10k",
+                      "desc": "智能洗烘，省心省力",
+                      "presentPrice": "2999",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/ec20453216dcd42f982cffe5fdbc3115.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米电视4A 32英寸",
+                      "desc": "人工智能系统，高清液晶屏",
+                      "presentPrice": "688",
+                      "originPrice": "799",
+                      "img": "//i8.mifile.cn/v1/a1/ef617fac-7489-436d-b74e-c43582f09633!200x200.jpg"
+                    },
+                    {
+                      "title": "Redmi全自动波轮洗衣机1A 8kg",
+                      "desc": "一键操作，父母都爱用",
+                      "presentPrice": "699",
+                      "originPrice": "799",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/b8c63a2024528fe5410ebe669b7d2407.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米全面屏电视E55A",
+                      "desc": "全面屏设计，人工智能语音",
+                      "presentPrice": "1699",
+                      "originPrice": "2099",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/ef6b4e9b9151849b3b1fb1dbf069c6ed.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "15.6\" 四核i7 16G 独显 512G",
+                      "desc": "全面均衡的国民轻薄本",
+                      "presentPrice": "4699",
+                      "originPrice": "4899",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/cd2aa2dcad6440b469c22e27db9b6236.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    }
+                  ],
+                  "item_s": {
+                    "title": "Air 13.3\" 2019款",
+                    "presentPrice": "4499",
+                    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/74e573c4c0d89048392d14831cc507d5.jpg?thumb=1&w=100&h=100&f=webp&q=90"
+                  }
+                },
+                {
+                  "content": "电视影音",
+                  "item_2": [
+                    {
+                      "title": "小米电视4A 32英寸",
+                      "desc": "人工智能系统，高清液晶屏",
+                      "presentPrice": "688",
+                      "img": "//i8.mifile.cn/v1/a1/ef617fac-7489-436d-b74e-c43582f09633!200x200.jpg"
+                    },
+                    {
+                      "title": "小米全面屏电视E55A",
+                      "desc": "全面屏设计，人工智能语音",
+                      "presentPrice": "1699",
+                      "originPrice": "2099",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/ef6b4e9b9151849b3b1fb1dbf069c6ed.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米全面屏电视E65A",
+                      "desc": "智能洗烘，省心省力",
+                      "presentPrice": "2699",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/b3317a291b112aa4712059ad93263668.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米电视4X 43英寸",
+                      "desc": "FHD全高清屏，人工智能语音",
+                      "presentPrice": "999",
+                      "originPrice": "1499",
+                      "img": "//i8.mifile.cn/b2c-mimall-media/ede227c1f0e3472fb8dcfae980d1e43f!200x200.jpg"
+                    },
+                    {
+                      "title": "小米电视4C 55英寸",
+                      "desc": "4K HDR，人工智能系统",
+                      "presentPrice": "1999",
+                      "img": "//i8.mifile.cn/v1/a1/cef8a9c0-2386-5b66-9ed2-6b1d4e4490bf!200x200.jpg"
+                    },
+                    {
+                      "title": "小米电视4A 65英寸",
+                      "desc": "4K HDR，人工智能语音系统",
+                      "presentPrice": "2499",
+                      "img": "//i8.mifile.cn/b2c-mimall-media/91b59cc6474e0cd777445b15adb13980!200x200.jpg"
+                    },
+                    {
+                      "title": "小米壁画电视 65英寸",
+                      "desc": "壁画外观，全面屏，远场语音",
+                      "presentPrice": "6999",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0e7eee530e4a103f2f5a0937a14bed53.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    }
+                  ],
+                  "item_s": {
+                    "title": "小米盒子4",
+                    "presentPrice": "299",
+                    "img": "//i8.mifile.cn/b2c-mimall-media/aa8a6ce3b2b1201d74d0197482f3403b!100x100.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "img": {
+            "bannerBox_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f5cb5e3368bb386449e5150dea66f550.jpg?thumb=1&w=1226&h=120&f=webp&q=90",
+            "brick_promo_list_img": [
+              {
+                "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/45c23f5b9a927b2dc49c25277e07727c.jpg?thumb=1&w=234&h=300&f=webp&q=90",
+                "href": "https://www.mi.com/mixalpha"
+              },
+              {
+                "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a660ce095e8f553a9ed1515265f4e9fc.jpg?thumb=1&w=234&h=300&f=webp&q=90",
+                "href": "https://www.mi.com/mixalpha"
+              }
+            ]
+          },
+          "brickList": {
+            "title": "智能",
+            "type": {
+              "list": [
+                {
+                  "content": "热门",
+                  "item_2": [
+                    {
+                      "title": "小米「小爱老师」",
+                      "desc": "口袋里的英语外教",
+                      "presentPrice": "449",
+                      "originPrice": "499",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/011dd8493ad62f3793dbb63d9fbd3bc0.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米米家智能门锁 推拉式",
+                      "desc": "一步推拉，高端智能门锁",
+                      "presentPrice": "1699",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0baacf6e54cbf89cab2c543cc02344e9.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米小爱音箱 Play",
+                      "desc": "听音乐、语音遥控家电",
+                      "presentPrice": "169",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/e7c6e79433c883e1a022ec21402c1679.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小爱音箱万能遥控版",
+                      "desc": "传统家电秒变智能",
+                      "presentPrice": "199",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/44a30f0da2aacb66a0f896293ebc703f.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "米家电饭煲4L",
+                      "desc": "890W 立体加热",
+                      "presentPrice": "299",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/b42e49c6c0208f2de5a2f7a491a3af46.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米手环4",
+                      "desc": "大屏彩显，20天超长续航",
+                      "presentPrice": "169",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/e850fa029579ba886e3d5c81f00ae534.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "米家九号平衡轮",
+                      "desc": "能花式酷玩的“风火轮”",
+                      "presentPrice": "999",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0c65d472682f0679e192dc7b4cd6e64c.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    }
+                  ],
+                  "item_s": {
+                    "title": "小米体脂秤2",
+                    "presentPrice": "99",
+                    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/550177d2e54387521bce9e78cb2949dd.jpg?thumb=1&w=100&h=100&f=webp&q=90"
+                  }
+                },
+                {
+                  "content": "安防",
+                  "item_2": [
+                    {
+                      "title": "米家智能门锁 标准锁体 碳素黑",
+                      "desc": "一体化活体指纹识别，多种开锁方式",
+                      "presentPrice": "1299",
+                      "originPrice": "499",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/2f33baec53cc73e2942277640ba6e710.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "米家智能门锁 标准锁体 磨砂金",
+                      "desc": "全新磨砂金配色，精湛工艺升级",
+                      "presentPrice": "1499",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/1840f64ea310ca8013385885baaf16a8.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "米家智能门锁 推拉式 通用版",
+                      "desc": "一步推拉，高端智能门锁",
+                      "presentPrice": "1699",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0baacf6e54cbf89cab2c543cc02344e9.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "米家智能门锁 青春版",
+                      "desc": "隐形指纹识别设计 简单一步快进家门",
+                      "presentPrice": "999",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0245498a0e08b87ba8c323871c5d48bc.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "米家智能门锁 霸王锁体 碳素黑",
+                      "desc": "一体化活体指纹识别，多种开锁方式",
+                      "presentPrice": "1599",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/e83e1ab5947337d7b631e056b3e0f23d.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "米家智能门锁 霸王锁体 磨砂金",
+                      "desc": "适配霸王锁体，多种开锁方式",
+                      "presentPrice": "1799",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/fa7cdb455f106da904e8c3f6156abc06.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米米家小白智能摄像机增强版",
+                      "desc": "智能看护， AI你所爱",
+                      "presentPrice": "329",
+                      "img": "//i8.mifile.cn/b2c-mimall-media/98c51f977ac5b590dbaf7b8445b30fa6!200x200.jpg"
+                    }
+                  ],
+                  "item_s": {
+                    "title": "小米米家智能摄像机云台版",
+                    "presentPrice": "199",
+                    "img": "//i8.mifile.cn/b2c-mimall-media/5a94a17f3e893d9804ede3b06e894460!100x100.jpg"
+                  }
+                },
+                {
+                  "content": "出行",
+                  "item_2": [
+                    {
+                      "title": "小米米家电动滑板车",
+                      "desc": "便携折叠，自由穿行",
+                      "presentPrice": "1999",
+                      "img": "//i8.mifile.cn/v1/a1/768992ca-4136-92f1-244a-0194a81a6360!200x200.jpg"
+                    },
+                    {
+                      "title": "米兔折叠婴儿推车",
+                      "desc": "出发去向往的地方",
+                      "presentPrice": "699",
+                      "img": "//i8.mifile.cn/b2c-mimall-media/18a82e7cda6ecbc22ecee7ac927d6ff9!200x200.jpg"
+                    },
+                    {
+                      "title": "米兔遥控小飞机",
+                      "desc": "迷你酷玩具，溜到飞起",
+                      "presentPrice": "399",
+                      "img": "//i8.mifile.cn/b2c-mimall-media/553b5c01820c844565abe64e50bba323!200x200.jpg"
+                    },
+                    {
+                      "title": "米家车载空气净化器",
+                      "desc": "高效净化车内空气",
+                      "presentPrice": "449",
+                      "img": "//i8.mifile.cn/v1/a1/cdc5c77b-d7e9-5a42-f848-3ff1808a139a!200x200.jpg"
+                    },
+                    {
+                      "title": "AMAZFIT 运动手表",
+                      "desc": "扔掉手机去跑步",
+                      "presentPrice": "399",
+                      "img": "//i8.mifile.cn/v1/a1/aaa1593d-9ca7-2944-3b62-380cc3427d82!200x200.jpg"
+                    },
+                    {
+                      "title": "九号平衡车 Plus",
+                      "desc": "一个形影不离的新伙伴",
+                      "presentPrice": "3499",
+                      "img": "//i8.mifile.cn/v1/a1/877d3ce8-68ab-7506-2a78-55a8c0fba946!200x200.png"
+                    },
+                    {
+                      "title": "米家车载逆变器",
+                      "desc": "双USB充电口，国际组合插孔",
+                      "presentPrice": "179",
+                      "originPrice": "199",
+                      "img": "//i8.mifile.cn/b2c-mimall-media/61472c3fcd181959055551e5c73aafec!200x200.jpg"
+                    }
+                  ],
+                  "item_s": {
+                    "title": "米家充气宝",
+                    "presentPrice": "199",
+                    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0294e2f3997bf0cffb7bf48361d03588.jpg?thumb=1&w=100&h=100&f=webp&q=90"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "img": {
+            "bannerBox_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/89c2a209b742fce9b10d9d196149d634.jpg?thumb=1&w=1226&h=120&f=webp&q=90",
+            "brick_promo_list_img": [
+              {
+                "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6874615b3c50e837ffe532eb6ea4ef1a.jpg?thumb=1&w=234&h=300&f=webp&q=90",
+                "href": "https://www.mi.com/mixalpha"
+              },
+              {
+                "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e4e456617d58227cc70d682b42fe90e3.jpg?thumb=1&w=234&h=300&f=webp&q=90",
+                "href": "https://www.mi.com/mixalpha"
+              }
+            ]
+          },
+          "brickList": {
+            "title": "搭配",
+            "type": {
+              "list": [
+                {
+                  "content": "热门",
+                  "item_2": [
+                    {
+                      "title": "小米真无线蓝牙耳机 Air 2",
+                      "desc": "智能真无线，轻松舒适戴",
+                      "presentPrice": "399",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/50649d7b5706f4cd9f658e93db6b6564.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "高速无线充套装",
+                      "desc": "快速无线闪充，Qi充电标准",
+                      "presentPrice": "149",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9eb0178e3bfeb7d170edd641fb4be4bc.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "Redmi充电宝 10000mAh 标准版 白色",
+                      "desc": "10000mAh大电量",
+                      "presentPrice": "59",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/ea8e42faebf7d76a4cb42b8930cf9e46.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "Redmi充电宝 20000mAh 快充版",
+                      "desc": "自动秒连，拿起就能用",
+                      "presentPrice": "99",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/eaf70e0e9905de6452f07b1f48fcc386.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米插线板 5孔位",
+                      "desc": "多重安全保护",
+                      "presentPrice": "39",
+                      "img": "//i8.mifile.cn/v1/a1/5dd69c0a-8f4a-b42f-d840-6c5a47f2cd03!200x200.jpg"
+                    },
+                    {
+                      "title": "小米蓝牙耳机AirDots青春版",
+                      "desc": "雅致简约，收纳充电盒",
+                      "presentPrice": "199",
+                      "img": "//i8.mifile.cn/b2c-mimall-media/92af1f21293fabfbf2a112892b864925!200x200.jpg"
+                    },
+                    {
+                      "title": "小米小爱蓝牙音箱 随身版",
+                      "desc": "小巧便携，一键唤醒小爱",
+                      "presentPrice": "49",
+                      "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/321610e787393c42e5cb2e5730a7681d.jpg?thumb=1&w=200&h=200"
+                    }
+                  ],
+                  "item_s": {
+                    "title": "小米小爱触屏音箱",
+                    "presentPrice": "299",
+                    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9946e252a7c49662376c056ced004a20.jpg?thumb=1&w=100&h=100&f=webp&q=90"
+                  }
+                },
+                {
+                  "content": "耳机音箱",
+                  "item_2": [
+                    {
+                      "title": "小米真无线蓝牙耳机 Air 2",
+                      "desc": "智能真无线，轻松舒适戴",
+                      "presentPrice": "399",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/50649d7b5706f4cd9f658e93db6b6564.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米降噪项圈蓝牙耳机",
+                      "desc": "无线降噪，静无止境",
+                      "presentPrice": "499",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/faf8668acb2fd80c0afad4d4c4e837ad.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米蓝牙耳机AirDots青春版",
+                      "desc": "雅致简约，收纳充电盒",
+                      "presentPrice": "199",
+                      "img": "//i8.mifile.cn/b2c-mimall-media/92af1f21293fabfbf2a112892b864925!200x200.jpg"
+                    },
+                    {
+                      "title": "Redmi AirDots 真无线蓝牙耳机",
+                      "desc": "自动秒连，拿起就能用",
+                      "presentPrice": "99.9",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/df90d51fce8449db25c9a71c715dec1b.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米小爱音箱 Pro",
+                      "desc": "语音遥控5000+品牌主流家电",
+                      "presentPrice": "299",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8b619d27877bbc497468c673a317a847.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米蓝牙耳机青春版",
+                      "desc": "6.5 克轻巧，高清通话音质",
+                      "presentPrice": "29",
+                      "img": "//i8.mifile.cn/v1/a1/e4c0f21c-3bd4-323e-673b-a9c1c1c6e294!200x200.jpg"
+                    },
+                    {
+                      "title": "小米运动蓝牙耳机青春版",
+                      "desc": "音随你动",
+                      "presentPrice": "99",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/e6a35e4dfff70f4195b29e8008716d82.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    }
+                  ],
+                  "item_s": {
+                    "title": "小米蓝牙项圈耳机",
+                    "presentPrice": "299",
+                    "img": "//i8.mifile.cn/b2c-mimall-media/838ba427ef55317d8c4911b02c95bb79!100x100.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "img": {
+            "bannerBox_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/10fb0086cb21120c53248a3d8cc56dc5.jpg?thumb=1&w=1226&h=120&f=webp&q=90",
+            "brick_promo_list_img": [
+              {
+                "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/739ebd8abfc2b1be8866a2c1ad87e709.jpg?thumb=1&w=234&h=300&f=webp&q=90",
+                "href": "https://www.mi.com/mixalpha"
+              },
+              {
+                "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ffe4182f1d9a5befdf2380ec90ae1620.jpg?thumb=1&w=234&h=300&f=webp&q=90",
+                "href": "https://www.mi.com/mixalpha"
+              }
+            ]
+          },
+          "brickList": {
+            "title": "配件",
+            "type": {
+              "list": [
+                {
+                  "content": "热门",
+                  "item_2": [
+                    {
+                      "title": "27W高速充电插头",
+                      "desc": "快速高效，安全稳定",
+                      "presentPrice": "49",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/318cdf014d9adfa2f6bbd6513aff40af.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米USB充电器30W快充版（1A1C）",
+                      "desc": "多一种接口，多一种选择",
+                      "presentPrice": "54",
+                      "originPrice": "59",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/1fba6c4f1a19200778ac3b1671b087cd.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米USB-C数据线 编织线版",
+                      "desc": "高强度纤维编制线体",
+                      "presentPrice": "18.9",
+                      "img": "//i8.mifile.cn/b2c-mimall-media/4132366589e457f407b918fe48c89cb1!200x200.jpg"
+                    },
+                    {
+                      "title": "ZMI USB Type-C 转 Lightning 数据线",
+                      "desc": "MFi官方认证，3A大流量，12个月质保",
+                      "presentPrice": "54",
+                      "originPrice": "59",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/1cd09b0dfd8c6d68bce1b5f946ee6476.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "高速无线充套装",
+                      "desc": "快速无线闪充，Qi充电标准",
+                      "presentPrice": "149",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9eb0178e3bfeb7d170edd641fb4be4bc.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米无线充电宝青春版10000mAh",
+                      "desc": "能量满满，无线有线都能充",
+                      "presentPrice": "129",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/1f32af53d1ad60f4980146f6a2b81019.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "米家LED随身灯",
+                      "desc": "小巧轻便 5级亮度调节",
+                      "presentPrice": "19.9",
+                      "img": "//i8.mifile.cn/v1/a1/b0ded71f-b235-8f99-ba1c-20f80c3a4231!200x200.jpg"
+                    }
+                  ],
+                  "item_s": {
+                    "title": "小米9 Pro 5G 极简摩纹保护壳",
+                    "presentPrice": "49",
+                    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/a09b7cc24428a3f3b9acb0e65dc99ede.jpg?thumb=1&w=100&h=100&f=webp&q=90"
+                  }
+                },
+                {
+                  "content": "保护套",
+                  "item_2": [
+                    {
+                      "title": "小米CC9&小米CC9美图定制版 标准高透贴膜",
+                      "desc": "高清透亮，耐磨性强",
+                      "presentPrice": "19",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/5c200476bc9336d171931cb7ee2e4549.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米CC9e 标准高透贴膜",
+                      "desc": "高清透亮，耐磨性强",
+                      "presentPrice": "19",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/24f8b0547a798b69be1b868872ddd80f.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "Redmi 7A标准高透贴膜",
+                      "desc": "高清高透，精彩清晰可见",
+                      "presentPrice": "19",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/958e872fe9930838e90de8acc9fffc28.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小仙女心愿手链保护壳",
+                      "desc": "手链绕于指尖，仙气满满",
+                      "presentPrice": "199",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/e5599ccd40bab44fb0f1722d150fe43f.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米CC9 荧光色高透果冻保护壳",
+                      "desc": "玩转多彩青春色",
+                      "presentPrice": "49",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0d8a74ade6b1b5fbd0c88b9679c63832.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "Redmi K20 / K20 Pro 怪力魔王保护壳",
+                      "desc": "怪力魔王专属定制",
+                      "presentPrice": "39",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8fb7f3be403cfcbe98576bee28c7cc25.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米9 ARE U OK保护壳",
+                      "desc": "一个与众不同的保护壳",
+                      "presentPrice": "39",
+                      "originPrices": "49",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/39a5445afe8c48d9b92b2bf9d6d88a26.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    }
+                  ],
+                  "item_s": {
+                    "title": "小米9 RUOK保护壳",
+                    "presentPrice": "39",
+                    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/913e51883bf91da95c2f84b0776b95cf.jpg?thumb=1&w=100&h=100&f=webp&q=90"
+                  }
+                },
+                {
+                  "content": "充电器",
+                  "item_2": [
+                    {
+                      "title": "20W 小米无线充电器",
+                      "desc": "Qi 充电标准，兼容更多",
+                      "presentPrice": "99",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/09c06a2824f19476a3bc47ea922df5e9.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米无线充电器（通用快充版）",
+                      "desc": "铝合金外观，金属质感好",
+                      "presentPrice": "69",
+                      "img": "//i8.mifile.cn/b2c-mimall-media/13ef5c2433660b1ca58e80491b848ea7!200x200.jpg"
+                    },
+                    {
+                      "title": "小米USB充电器30W快充版（1A1C）",
+                      "desc": "多一种接口，多一种选择",
+                      "presentPrice": "59",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/1fba6c4f1a19200778ac3b1671b087cd.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米USB充电器快充版（18W）",
+                      "desc": "安卓、苹果设备均可使用",
+                      "presentPrice": "29.9",
+                      "img": "//i8.mifile.cn/v1/a1/b169b069-6cc5-b052-9f60-98a94b68fdb1!200x200.jpg"
+                    },
+                    {
+                      "title": "小米USB充电器60W快充版（6口） ",
+                      "desc": "6口输出，USB-C输出接口",
+                      "presentPrice": "129",
+                      "img": "//i8.mifile.cn/b2c-mimall-media/a6ccfda056fc159a43c7b991218004b5!200x200.jpg"
+                    },
+                    {
+                      "title": "27W高速充电插头",
+                      "desc": "快速高效，安全稳定",
+                      "presentPrice": "49",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/318cdf014d9adfa2f6bbd6513aff40af.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "27W小米高速快充套装",
+                      "desc": "高速高效 兼容性强",
+                      "presentPrice": "59",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/d70384a69c491b4bfde44d7e11224921.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    }
+                  ],
+                  "item_s": {
+                    "title": "小米USB充电器36W快充版（2口）",
+                    "presentPrice": "59",
+                    "img": "//i8.mifile.cn/b2c-mimall-media/fb04f3efd5fd147093d939071e2d1827!100x100.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "img": {
+            "bannerBox_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/88e35cffc82cd98cd53172460067af17.jpg?thumb=1&w=1226&h=120&f=webp&q=90",
+            "brick_promo_list_img": [
+              {
+                "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/37dc0898c2624b4130da4631f2d9a675.jpg?thumb=1&w=234&h=300&f=webp&q=90",
+                "href": "https://www.mi.com/mixalpha"
+              },
+              {
+                "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e0b8cffcbdaa88e2a314f0a372ca75dd.jpg?thumb=1&w=234&h=300&f=webp&q=90",
+                "href": "https://www.mi.com/mixalpha"
+              }
+            ]
+          },
+          "brickList": {
+            "title": "周边",
+            "type": {
+              "list": [
+                {
+                  "content": "热门",
+                  "item_2": [
+                    {
+                      "title": "米家飞行员太阳镜 Pro",
+                      "desc": "尼龙偏光，轻巧佩戴",
+                      "presentPrice": "199",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/cccac948e1b8ffb47f1fecde67692e60.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米巨能写中性笔10支装",
+                      "desc": "一支顶4支，超长顺滑书写",
+                      "presentPrice": "9.99",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/57433a4b991b2a2ddc889f2d8d434655.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米旅行箱 20英寸 布朗熊限量版",
+                      "desc": "“国际巨星” LINE FRIENDS布朗熊",
+                      "presentPrice": "399",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/c149537ebb0c2cdb977ddd93200074f4.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "米家迷你保温杯",
+                      "desc": "可以随身携带的温度",
+                      "presentPrice": "49",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/03d94ee6059481a6adcb6c4c5c572fb4.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "米家驱蚊器基础版 3个装",
+                      "desc": "3个装 长效驱蚊",
+                      "presentPrice": "129",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/41e6890f9d6b7fdb4275c986dc3644e8.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "3卷装抽绳式垃圾袋",
+                      "desc": "让清洁更简单",
+                      "presentPrice": "14.9",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/38748fefeef78183ac01356a23dbc5c5.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "贝医生巴氏牙刷 四色装",
+                      "desc": "进口刷毛，好品质",
+                      "presentPrice": "39.9",
+                      "img": "//i8.mifile.cn/v1/a1/413f5e2f-53e7-0879-119c-8b4466feea53!200x200.jpg"
+                    }
+                  ],
+                  "item_s": {
+                    "title": "8H 乳胶弹簧静音床垫 M3",
+                    "presentPrice": "1599",
+                    "img": "//i8.mifile.cn/v1/a1/eaa7c8e5-2a8c-0d2c-6de7-a6db2068b192!100x100.jpg"
+                  }
+                },
+                {
+                  "content": "出行",
+                  "item_2": [
+                    {
+                      "title": "90分框体旅行箱",
+                      "desc": "专利轻量合金中框，轻盈坚固",
+                      "presentPrice": "599",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/d26d3a80dd1ab0c6a657f13cb234dade.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米商旅多功能双肩包 2",
+                      "desc": "商务旅行多场景，切换无压力",
+                      "presentPrice": "199",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/47ecc65d37065fde1e71b1b34326e741.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "米家飞行员太阳镜 Pro",
+                      "desc": "尼龙偏光，轻巧佩戴",
+                      "presentPrice": "199",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/cccac948e1b8ffb47f1fecde67692e60.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "小米小背包",
+                      "desc": "小身材大容量， 更精彩！",
+                      "presentPrice": "29",
+                      "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f5f4677730c6be3ecab615795fb0e9c7.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+                    },
+                    {
+                      "title": "Free Tie 真皮板鞋 米家定制",
+                      "desc": "做一双简单的板鞋",
+                      "presentPrice": "129",
+                      "originPrice": "199",
+                      "img": "//i8.mifile.cn/v1/a1/e2775107-da04-6611-3580-82227ffec369!200x200.png"
+                    },
+                    {
+                      "title": "自动折叠伞",
+                      "desc": "防泼水伞布，轻盈拒水",
+                      "presentPrice": "99",
+                      "img": "//i8.mifile.cn/v1/a1/43549b8e-c8cd-0464-17ba-6be26f395ef0!200x200.jpg"
+                    },
+                    {
+                      "title": "最生活毛巾•青春系列",
+                      "desc": "3秒吸水，杀菌无刺激",
+                      "presentPrice": "39",
+                      "originPrices": "19.9",
+                      "img": "//i8.mifile.cn/b2c-mimall-media/1f4c867b5ccb878b43054f640636c872!200x200.jpg"
+                    }
+                  ],
+                  "item_s": {
+                    "title": "九号平衡车",
+                    "presentPrice": "1999",
+                    "img": "//i8.mifile.cn/v1/a1/T1r_x_BgLT1RXrhCrK!100x100.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

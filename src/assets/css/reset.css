@@ -15,7 +15,7 @@ textarea{overflow:auto;resize:vertical}
 input,textarea,button,select,a{outline:0 none;border: none;}
 button::-moz-focus-inner,input::-moz-focus-inner{padding:0;border:0}
 mark{background-color:transparent}
-a,ins,s,u,del{text-decoration:none}
+a,ins,s,u{text-decoration:none}
 sup,sub{vertical-align:baseline}
 html {
   height: 100%;

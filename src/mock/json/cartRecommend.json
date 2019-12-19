@@ -1,0 +1,311 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "list": {
+      "list": [
+        {
+          "productid": "11137",
+          "commodityid": "1194400041",
+          "goodsid": "2194400043",
+          "name": "小米CC9 Pro 6GB+128GB",
+          "price": "2799",
+          "market_price": "2799",
+          "image": "//i1.mifile.cn/a1/pms_1572941393.18077211.jpg",
+          "comments": "0"
+        },
+        {
+          "productid": "8750",
+          "commodityid": "1183300004",
+          "goodsid": "2183300003",
+          "name": "小米平板4 Plus 10英寸 LTE版 4GB+128GB",
+          "price": "2099",
+          "market_price": "2099",
+          "image": "//i1.mifile.cn/a1/pms_1536653482.78091231.jpg",
+          "comments": "3788"
+        },
+        {
+          "productid": "9736",
+          "commodityid": "1191800017",
+          "goodsid": "2191800017",
+          "name": "米家驱蚊器智能版",
+          "price": "49",
+          "market_price": "59",
+          "image": "//i1.mifile.cn/a1/pms_1557977821.03156568.jpg",
+          "comments": "2656"
+        },
+        {
+          "productid": "10805",
+          "commodityid": "1193700063",
+          "goodsid": "2193700044",
+          "name": "Redmi K20 Pro 尊享版 12GB+512GB",
+          "price": "2999",
+          "market_price": "3199",
+          "image": "//i1.mifile.cn/a1/pms_1569558304.27718807.jpg",
+          "comments": "0"
+        },
+        {
+          "productid": "10138",
+          "commodityid": "1192500032",
+          "goodsid": "2192500019",
+          "name": "小米CC9 6GB+128GB",
+          "price": "1699",
+          "market_price": "1999",
+          "image": "//i1.mifile.cn/a1/pms_1562056084.63169068.jpg",
+          "comments": "3551"
+        },
+        {
+          "productid": "5828",
+          "commodityid": "1171900017",
+          "goodsid": "2171900028",
+          "name": "手机USB micro 数据线",
+          "price": "5",
+          "market_price": "9.9",
+          "image": "//i1.mifile.cn/a1/pms_1496833357.9528722.jpg",
+          "comments": "2.1万"
+        },
+        {
+          "productid": "10163",
+          "commodityid": "1192600019",
+          "goodsid": "2192600018",
+          "name": "小米CC 9e 全网通版 4GB+128GB",
+          "price": "1199",
+          "market_price": "1499",
+          "image": "//i1.mifile.cn/a1/pms_1562032895.79493637.png",
+          "comments": "29"
+        },
+        {
+          "productid": "10585",
+          "commodityid": "1193400007",
+          "goodsid": "2193400005",
+          "name": "Redmi Note 8 Pro 8GB+128GB 全网通版",
+          "price": "1799",
+          "market_price": "1799",
+          "image": "//i1.mifile.cn/a1/pms_1567055141.91938217.png",
+          "comments": "35"
+        },
+        {
+          "productid": "10389",
+          "commodityid": "1193000053",
+          "goodsid": "2193000021",
+          "name": "黑鲨游戏手机2 Pro 12GB+256GB",
+          "price": "3499",
+          "market_price": "3499",
+          "image": "//i1.mifile.cn/a1/pms_1564309721.25069397.jpg",
+          "comments": "690"
+        },
+        {
+          "productid": "10922",
+          "commodityid": "1193900043",
+          "goodsid": "2193900025",
+          "name": "Redmi 8A 3GB+32GB",
+          "price": "699",
+          "market_price": "699",
+          "image": "//i1.mifile.cn/a1/pms_1571387130.65358635.jpg",
+          "comments": "0"
+        },
+        {
+          "productid": "10869",
+          "commodityid": "1193800051",
+          "goodsid": "2193800032",
+          "name": "Redmi 8 3GB+32GB",
+          "price": "749",
+          "market_price": "799",
+          "image": "//i1.mifile.cn/a1/pms_1570878871.18682080.jpg",
+          "comments": "0"
+        },
+        {
+          "productid": "10590",
+          "commodityid": "1193400023",
+          "goodsid": "2193400021",
+          "name": "Redmi Note 8 6GB+64GB",
+          "price": "1099",
+          "market_price": "1199",
+          "image": "//i1.mifile.cn/a1/pms_1567422055.88767967.jpg",
+          "comments": "0"
+        },
+        {
+          "productid": "5500",
+          "commodityid": "1171300020",
+          "goodsid": "2171300014",
+          "name": "米家IH电饭煲 4L",
+          "price": "529",
+          "market_price": "599",
+          "image": "//i1.mifile.cn/a1/pms_1490770630.65576964.png",
+          "comments": "6756"
+        },
+        {
+          "productid": "9734",
+          "commodityid": "1191800015",
+          "goodsid": "2191800015",
+          "name": "90分框体旅行箱 24英寸",
+          "price": "599",
+          "market_price": "799",
+          "image": "//i1.mifile.cn/a1/pms_1558060690.26641951.jpg",
+          "comments": "68"
+        },
+        {
+          "productid": "9840",
+          "commodityid": "1192100009",
+          "goodsid": "2192100009",
+          "name": "Redmi7A 全网通版 3GB",
+          "price": "599",
+          "market_price": "799",
+          "image": "//i1.mifile.cn/a1/pms_1558861745.85758071.jpg",
+          "comments": "778"
+        },
+        {
+          "productid": "7913",
+          "commodityid": "1181600014",
+          "goodsid": "1181600014",
+          "name": "小米电视4A 50英寸影院版",
+          "price": "1798",
+          "market_price": "2098",
+          "image": "//i1.mifile.cn/a1/pms_1524223442.33418864.jpg",
+          "comments": "0"
+        },
+        {
+          "productid": "9990",
+          "commodityid": "1192300032",
+          "goodsid": "2192300015",
+          "name": "米家电饭煲4L",
+          "price": "269",
+          "market_price": "299",
+          "image": "//i1.mifile.cn/a1/pms_1559728396.2634058.jpg",
+          "comments": "914"
+        },
+        {
+          "productid": "7115",
+          "commodityid": "1174200018",
+          "goodsid": "2174300004",
+          "name": "8H多功能青春床垫X1",
+          "price": "399",
+          "market_price": "399",
+          "image": "//i1.mifile.cn/a1/pms_1509330056.27762473.jpg",
+          "comments": "1115"
+        },
+        {
+          "productid": "9963",
+          "commodityid": "1192300008",
+          "goodsid": "2192300008",
+          "name": "米家互联网洗烘一体机 Pro 10kg",
+          "price": "2999",
+          "market_price": "2999",
+          "image": "//i1.mifile.cn/a1/pms_1560161251.21862332.jpg",
+          "comments": "264"
+        }, 
+        {
+          "productid": "9561",
+          "commodityid": "1191300032",
+          "goodsid": "2191300026",
+          "name": "小米旅行箱 24英寸",
+          "price": "399",
+          "market_price": "399",
+          "image": "//i1.mifile.cn/a1/pms_1553778518.87814930.jpg",
+          "comments": "968"
+        },
+        
+        {
+          "productid": "8600",
+          "commodityid": "1182800023",
+          "goodsid": "1182800023",
+          "name": "小米电视4C 50英寸影院版",
+          "price": "1798",
+          "market_price": "2098",
+          "image": "//i1.mifile.cn/a1/pms_1531449634.91692715.jpg",
+          "comments": "0"
+        },
+        {
+          "productid": "7575",
+          "commodityid": "1175200011",
+          "goodsid": "2175200009",
+          "name": "小米电视4A 50英寸",
+          "price": "1499",
+          "market_price": "1699",
+          "image": "//i1.mifile.cn/a1/pms_1516011154.79573723.jpg",
+          "comments": "1.2万"
+        },
+        {
+          "productid": "7795",
+          "commodityid": "1181100012",
+          "goodsid": "2181100015",
+          "name": "小米电视4C 50英寸",
+          "price": "1499",
+          "market_price": "1699",
+          "image": "//i1.mifile.cn/a1/pms_1522318330.86967810.jpg",
+          "comments": "9688"
+        },
+        {
+          "productid": "8038",
+          "commodityid": "1181900017",
+          "goodsid": "2181900012",
+          "name": "小米电视4S 50英寸",
+          "price": "2399",
+          "market_price": "2399",
+          "image": "//i1.mifile.cn/a1/pms_1525792825.335429.jpg",
+          "comments": "668"
+        },
+        {
+          "productid": "6634",
+          "commodityid": "1173300021",
+          "goodsid": "2173300010",
+          "name": "小米电视4A 55英寸",
+          "price": "1699",
+          "market_price": "1999",
+          "image": "//i1.mifile.cn/a1/pms_1535100756.34411219.jpg",
+          "comments": "2.4万"
+        },
+        {
+          "productid": "9668",
+          "commodityid": "1191600030",
+          "goodsid": "2191600018",
+          "name": "小米全面屏电视E55A",
+          "price": "1799",
+          "market_price": "2099",
+          "image": "//i1.mifile.cn/a1/pms_1562138486.16379871.jpg",
+          "comments": "2606"
+        },
+        {
+          "productid": "10590",
+          "commodityid": "1194600010",
+          "goodsid": "2194600002",
+          "name": "Redmi Note 8 6GB+64GB",
+          "price": "1099",
+          "market_price": "1199",
+          "image": "//i1.mifile.cn/a1/pms_1573823282.77886401.jpg",
+          "comments": "0"
+        },
+        {
+          "productid": "10036",
+          "commodityid": "1192400031",
+          "goodsid": "2192400007",
+          "name": "小米手环4 复仇者联盟系列限量版",
+          "price": "349",
+          "market_price": "349",
+          "image": "//i1.mifile.cn/a1/pms_1560312518.23829836.png",
+          "comments": "2146"
+        },
+        {
+          "productid": "9530",
+          "commodityid": "1191200019",
+          "goodsid": "2191200018",
+          "name": "米家压力IH电饭煲1S",
+          "price": "1099",
+          "market_price": "1099",
+          "image": "//i1.mifile.cn/a1/pms_1553764670.0369286.jpg",
+          "comments": "263"
+        },
+        {
+          "productid": "9849",
+          "commodityid": "1192100015",
+          "goodsid": "2192100015",
+          "name": "小米「小爱老师」 4G网络尊享版",
+          "price": "999",
+          "market_price": "999",
+          "image": "//i1.mifile.cn/a1/pms_1560222640.90428593.jpg",
+          "comments": "881"
+        }
+      ]
+    }
+  }
+}

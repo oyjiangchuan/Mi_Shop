@@ -1,0 +1,1645 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "list": {
+      "time_id": "1571760000",
+      "start_time": 1571760000,
+      "end_time": 1571794920,
+      "list": [
+        {
+          "goods_id": "2191400020",
+          "product_id": "9616",
+          "goods_name": "MIJOY 小魔爪按摩器 海洋蓝",
+          "desc": "全身按摩，小巧百搭",
+          "seckill_type": "goods",
+          "goods_price": "9.9",
+          "seckill_Price": "1",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9218def5a60d8d3b3fa96ba81ddf6093.png",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9218def5a60d8d3b3fa96ba81ddf6093.png",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1554703325.56131440.jpg",
+          "label_text": "1元",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191400020\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2193200014",
+          "product_id": "10480",
+          "goods_name": "米家迷你保温杯 黑色",
+          "desc": "可以随身携带的温度",
+          "seckill_type": "goods",
+          "goods_price": "49",
+          "seckill_Price": "24.5",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9dcab193082ccf1aced9fca8ebf6b1b2.png",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9dcab193082ccf1aced9fca8ebf6b1b2.png",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565313911.01343154.jpg",
+          "label_text": "5折",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2193200014\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191600037",
+          "product_id": "9693",
+          "goods_name": "MIJOY 胶带座套装 白色",
+          "desc": "结实耐用 轻松便捷",
+          "seckill_type": "goods",
+          "goods_price": "19.9",
+          "seckill_Price": "9.9",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b73c6dbbb976ad1fe088b05f45de9a53.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b73c6dbbb976ad1fe088b05f45de9a53.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1555902841.82517552.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191600037\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191700020",
+          "product_id": "9710",
+          "goods_name": "MIJOY 6寸相框摆台 白色",
+          "desc": "美观耐用 自由百搭",
+          "seckill_type": "goods",
+          "goods_price": "9.9",
+          "seckill_Price": "1",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/03a055b4a5b90c55a11eafa7d322a4be.png",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/03a055b4a5b90c55a11eafa7d322a4be.png",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565334856.05187680.jpg",
+          "label_text": "1元",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191700020\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2183000006",
+          "product_id": "8645",
+          "goods_name": "小米路由器4C 白色",
+          "desc": "300M单频，高增益4天线",
+          "seckill_type": "seckill",
+          "goods_price": "99",
+          "seckill_Price": "59",
+          "discount_img": "https://i8.mifile.cn/b2c-mimall-media/5c43cc667982414502dd9733dce46748.jpg",
+          "img": "https://i8.mifile.cn/b2c-mimall-media/5c43cc667982414502dd9733dce46748.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1532604005.80875371.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2183000006\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192300055",
+          "product_id": "10015",
+          "goods_name": "小米小爱音箱 Play（白色）量产版 白色",
+          "desc": "听音乐、语音遥控家电",
+          "seckill_type": "seckill",
+          "goods_price": "169",
+          "seckill_Price": "99",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/75cfba1ec641388eabc3ae5464ff1d27.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/75cfba1ec641388eabc3ae5464ff1d27.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560230039.28979252.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192300055\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2172800032",
+          "product_id": "6298",
+          "goods_name": "小米WiFi放大器Pro 黑色",
+          "desc": "轻松扩展WiFi信号",
+          "seckill_type": "seckill",
+          "goods_price": "79",
+          "seckill_Price": "59",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/873031dfecdb83fcd966ea01478c92a0.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/873031dfecdb83fcd966ea01478c92a0.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/9085cddd-530a-0bf0-8b09-74e96fa97cc9.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2172800032\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2190900011",
+          "product_id": "9432",
+          "goods_name": "高品质多功能头戴耳机\t",
+          "desc": "我的私人KTV",
+          "seckill_type": "seckill",
+          "goods_price": "249",
+          "seckill_Price": "199",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8a60f4d10dbcb83f0b0e357309baa36b.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8a60f4d10dbcb83f0b0e357309baa36b.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1551343984.14546114.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2190900011\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192200004",
+          "product_id": "9464",
+          "goods_name": "小米路由器4A 纯白色",
+          "desc": "更高性价比的双频路由器",
+          "seckill_type": "seckill",
+          "goods_price": "119",
+          "seckill_Price": "99",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/bfc00da5e260ac1d1653bf4b50697f43.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/bfc00da5e260ac1d1653bf4b50697f43.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1558927605.77414956.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192200004\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191700036",
+          "product_id": "9723",
+          "goods_name": "米家驱蚊器基础版 3个装 白色",
+          "desc": "3个装 长效驱蚊",
+          "seckill_type": "seckill",
+          "goods_price": "129",
+          "seckill_Price": "99",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7927ec3ddee8ff6b3ba26fc4fc8ffe07.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7927ec3ddee8ff6b3ba26fc4fc8ffe07.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1557804685.13891176.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191700036\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191300004",
+          "product_id": "9536",
+          "goods_name": "小米小爱音箱 万能遥控版 黑色",
+          "desc": "传统家电秒变智能",
+          "seckill_type": "seckill",
+          "goods_price": "199",
+          "seckill_Price": "149",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c33f008a86c151a1500d44d599351256.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c33f008a86c151a1500d44d599351256.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553484236.82631752.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191300004\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191900017",
+          "product_id": "9781",
+          "goods_name": "Redmi K20 6GB+128GB 冰川蓝",
+          "desc": "弹出全面屏，4800万三摄",
+          "seckill_type": "seckill",
+          "goods_price": "2099",
+          "seckill_Price": "1799",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/132fdc53d81041497ab85d712a9c3b22.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/132fdc53d81041497ab85d712a9c3b22.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1558854907.65258291.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191900017\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2181400001",
+          "product_id": "6334",
+          "goods_name": "小米AI音箱",
+          "desc": "听音乐、语音遥控家电",
+          "seckill_type": "seckill",
+          "goods_price": "299",
+          "seckill_Price": "229",
+          "discount_img": "https://i8.mifile.cn/b2c-mimall-media/1e5e065d515ba0a0303d96740ea58494.jpg",
+          "img": "https://i8.mifile.cn/b2c-mimall-media/1e5e065d515ba0a0303d96740ea58494.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e277547c6e3329303dd2c20a327424c4.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2181400001\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192600013",
+          "product_id": "10161",
+          "goods_name": "小米CC9e 4GB+64GB 深蓝星球 (蓝色)",
+          "desc": "3200万自拍，4800万三摄",
+          "seckill_type": "seckill",
+          "goods_price": "1299",
+          "seckill_Price": "1199",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cc1422f061017fe49a2a9bb0b4e190b0.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cc1422f061017fe49a2a9bb0b4e190b0.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562074209.74891165.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192600013\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191300025",
+          "product_id": "9560",
+          "goods_name": "小米旅行箱 青春款 20英寸 黄色 20寸",
+          "desc": "环保材料，轻便重量",
+          "seckill_type": "seckill",
+          "goods_price": "249",
+          "seckill_Price": "199",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abe6691be6540c02a749928cabffc4dd.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abe6691be6540c02a749928cabffc4dd.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553768749.5774078.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191300025\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191900023",
+          "product_id": "9783",
+          "goods_name": "Redmi K20 Pro 8GB+256GB 冰川蓝 ",
+          "desc": "骁龙855， 弹出全面屏",
+          "seckill_type": "seckill",
+          "goods_price": "2999",
+          "seckill_Price": "2699",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7906b53fe38d4d6427f210e7f18425d0.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7906b53fe38d4d6427f210e7f18425d0.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1558857678.14769305.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191900023\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192300015",
+          "product_id": "9990",
+          "goods_name": "米家电饭煲4L 白色",
+          "desc": "890W 立体加热 ",
+          "seckill_type": "seckill",
+          "goods_price": "299",
+          "seckill_Price": "269",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/98eecc4961d48dd1db8d6563784fc719.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/98eecc4961d48dd1db8d6563784fc719.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1559728396.2634058.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192300015\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192300005",
+          "product_id": "9959",
+          "goods_name": "Redmi全自动波轮洗衣机1S 8kg 灰色",
+          "desc": "小身材大容量，可预约",
+          "seckill_type": "seckill",
+          "goods_price": "899",
+          "seckill_Price": "699",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3c53a053357c0fb086a1eb7d43908b70.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3c53a053357c0fb086a1eb7d43908b70.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560062441.20748673.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192300005\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191100002",
+          "product_id": "9466",
+          "goods_name": "米家 wiha 8合1棘轮螺丝刀 黑色",
+          "desc": "轻巧集成 无忧家装",
+          "seckill_type": "seckill",
+          "goods_price": "99",
+          "seckill_Price": "89",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/24517033b57f0426ddbf17c44897f7ff.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/24517033b57f0426ddbf17c44897f7ff.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1552285773.36041918.png",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191100002\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2193200031",
+          "product_id": "10487",
+          "goods_name": "小米9 全网通版 8GB内存 全息幻彩紫 256GB",
+          "desc": "全息幻彩机身，骁龙855",
+          "seckill_type": "seckill",
+          "goods_price": "3299",
+          "seckill_Price": "2999",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b5e946f843f4042be7a3f86227259209.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b5e946f843f4042be7a3f86227259209.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565339466.57314633.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2193200031\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2193300009",
+          "product_id": "10535",
+          "goods_name": "米家声波电动牙刷T500",
+          "desc": "刷的干净、智能护齿",
+          "seckill_type": "seckill",
+          "goods_price": "199",
+          "seckill_Price": "189",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/56c89c9d167d62e4761dc6eaed38bfbd.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/56c89c9d167d62e4761dc6eaed38bfbd.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565922758.16213125.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2193300009\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2183800003",
+          "product_id": "8835",
+          "goods_name": "小米米家小白智能摄像机增强版 白色",
+          "desc": "智能看护， AI你所爱",
+          "seckill_type": "seckill",
+          "goods_price": "399",
+          "seckill_Price": "369",
+          "discount_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5d0f25ec3799ea934f800739e81ee789.jpg",
+          "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5d0f25ec3799ea934f800739e81ee789.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1538031692.35815325.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2183800003\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192000007",
+          "product_id": "9819",
+          "goods_name": "RedmiBook 14  i3 4G 256GB 集显 银色",
+          "desc": "i3处理器 超轻薄全金属",
+          "seckill_type": "seckill",
+          "goods_price": "3199",
+          "seckill_Price": "2999",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e4e5ab6450b3116756d5bbc4f0c5d66d.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e4e5ab6450b3116756d5bbc4f0c5d66d.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563275384.09691147.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192000007\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2182100014",
+          "product_id": "8131",
+          "goods_name": "米家直流变频落地扇 白色",
+          "desc": "用科技创造自然风",
+          "seckill_type": "seckill",
+          "goods_price": "349",
+          "seckill_Price": "279",
+          "discount_img": "https://i8.mifile.cn/b2c-mimall-media/ff6d8ce4b095cdc62c5924a2be3fc970.jpg",
+          "img": "https://i8.mifile.cn/b2c-mimall-media/ff6d8ce4b095cdc62c5924a2be3fc970.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1528336993.80899840.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2182100014\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2181800004",
+          "product_id": "8019",
+          "goods_name": "小米净水器滤芯 PP棉 白色",
+          "desc": "有效滤除泥沙颗粒、混浊物、铁锈等",
+          "seckill_type": "seckill",
+          "goods_price": "59",
+          "seckill_Price": "55",
+          "discount_img": "https://i8.mifile.cn/b2c-mimall-media/18faadb58f90c627c1e7250abe03a2eb.jpg",
+          "img": "https://i8.mifile.cn/b2c-mimall-media/18faadb58f90c627c1e7250abe03a2eb.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1525317355.64747798.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2181800004\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2184200003",
+          "product_id": "8948",
+          "goods_name": "小米MIX 3 全网通版 8GB+128GB 黑色",
+          "desc": "DxO百分拍照手机",
+          "seckill_type": "seckill",
+          "goods_price": "3599",
+          "seckill_Price": "2599",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0c218f4f5473e7b9b9068f51d0d57b2f.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0c218f4f5473e7b9b9068f51d0d57b2f.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6ef3215af052c970f5c9fe0ac4c2fe26.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2184200003\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2184800003",
+          "product_id": "9109",
+          "goods_name": "米家小饭煲 白色",
+          "desc": "小容量不浪费",
+          "seckill_type": "seckill",
+          "goods_price": "199",
+          "seckill_Price": "169",
+          "discount_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fda963ae642e1b46a18d339ddad13f82.jpg",
+          "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fda963ae642e1b46a18d339ddad13f82.jpg",
+          "pc_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/888baa6c94ee18f4dc3f4b5ee7e18fb0.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2184800003\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2193500013",
+          "product_id": "10656",
+          "goods_name": "RedmiBook 14 I3/8G/256 SATA 集显 银",
+          "desc": "i3处理器 超轻薄全金属",
+          "seckill_type": "seckill",
+          "goods_price": "3399",
+          "seckill_Price": "3199",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e4e5ab6450b3116756d5bbc4f0c5d66d.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e4e5ab6450b3116756d5bbc4f0c5d66d.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1569483373.98562232.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2193500013\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191100003",
+          "product_id": "9468",
+          "goods_name": "小米路由器4A千兆版",
+          "desc": "双核全千兆AC1200路由器",
+          "seckill_type": "seckill",
+          "goods_price": "169",
+          "seckill_Price": "149",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c97afe622ee275fe873abd9f80a31e6d.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c97afe622ee275fe873abd9f80a31e6d.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1552376822.09637089.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191100003\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2174400013",
+          "product_id": "7229",
+          "goods_name": "米家空气净化器 2S",
+          "desc": "好空气看得见",
+          "seckill_type": "seckill",
+          "goods_price": "899",
+          "seckill_Price": "699",
+          "discount_img": "https://i8.mifile.cn/b2c-mimall-media/db68b179e4287c321eb2c3685c615088.jpg",
+          "img": "https://i8.mifile.cn/b2c-mimall-media/db68b179e4287c321eb2c3685c615088.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/d5a39c5e-28e7-f4c1-57fd-59933f26032b.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2174400013\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191000006",
+          "product_id": "9453",
+          "goods_name": "Redmi 7 3GB+32GB 亮黑色 ",
+          "desc": "4000mAh超长续航",
+          "seckill_type": "seckill",
+          "goods_price": "799",
+          "seckill_Price": "699",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6464b94513d3892543c9342b03da2a82.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6464b94513d3892543c9342b03da2a82.jpg",
+          "pc_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0a04537afe7e37deeb105eeca6566712.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191000006\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2194100014",
+          "product_id": "10949",
+          "goods_name": "米家两门冰箱 160L 银色",
+          "desc": "小巧能装，速冻养鲜",
+          "seckill_type": "seckill",
+          "goods_price": "1099",
+          "seckill_Price": "999",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3e33f9e4a70b7764081bcdd64a77cd8d.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3e33f9e4a70b7764081bcdd64a77cd8d.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1570623930.25886181.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2194100014\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2171300014",
+          "product_id": "5500",
+          "goods_name": "米家IH电饭煲 4L 白色",
+          "desc": "多才多艺的智能电饭煲",
+          "seckill_type": "seckill",
+          "goods_price": "599",
+          "seckill_Price": "529",
+          "discount_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2444839875723f9f371929bc491fec9c.jpg",
+          "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2444839875723f9f371929bc491fec9c.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/08e0d3e4-63a8-3de4-107a-f6977321f106.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2171300014\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191100024",
+          "product_id": "9509",
+          "goods_name": "Redmi全自动波轮洗衣机 1A 8kg 白色",
+          "desc": "一键操作，父母都爱用",
+          "seckill_type": "seckill",
+          "goods_price": "799",
+          "seckill_Price": "699",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/793a818aee7cb7634522940323fb54f8.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/793a818aee7cb7634522940323fb54f8.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1552868299.27348967.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191100024\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192000008",
+          "product_id": "9820",
+          "goods_name": "RedmiBook 14  i5 8G 256GB 集显 银色",
+          "desc": "i5处理器 超轻薄全金属",
+          "seckill_type": "seckill",
+          "goods_price": "3799",
+          "seckill_Price": "3599",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e4e5ab6450b3116756d5bbc4f0c5d66d.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e4e5ab6450b3116756d5bbc4f0c5d66d.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1561951014.98157696.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192000008\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2184400010",
+          "product_id": "9039",
+          "goods_name": "米家电磁炉青春版 白色",
+          "desc": "九挡变频控温",
+          "seckill_type": "seckill",
+          "goods_price": "199",
+          "seckill_Price": "189",
+          "discount_img": "https://i8.mifile.cn/b2c-mimall-media/4f3214af47a6740e15acce5f4fcc8916.jpg",
+          "img": "https://i8.mifile.cn/b2c-mimall-media/4f3214af47a6740e15acce5f4fcc8916.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1541385807.77593960.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2184400010\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192300007",
+          "product_id": "9962",
+          "goods_name": "小白智能摄像机 电池版 白色",
+          "desc": "无需布线 安装更省心",
+          "seckill_type": "seckill",
+          "goods_price": "399",
+          "seckill_Price": "369",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/bcff3b4399d0ccbac6c93cf826b0b214.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/bcff3b4399d0ccbac6c93cf826b0b214.jpg",
+          "pc_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/933233908ecbf3359440a20e3ac6b3f3.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192300007\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191000009",
+          "product_id": "9454",
+          "goods_name": "Redmi 7 4GB+64GB 亮黑色 ",
+          "desc": "4000mAh超长续航",
+          "seckill_type": "seckill",
+          "goods_price": "999",
+          "seckill_Price": "899",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6464b94513d3892543c9342b03da2a82.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6464b94513d3892543c9342b03da2a82.jpg",
+          "pc_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0a04537afe7e37deeb105eeca6566712.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191000009\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2193200039",
+          "product_id": "10492",
+          "goods_name": "RedmiBook 14 I5/8G/512G SATA/MX250 银色",
+          "desc": "十代酷睿更强劲",
+          "seckill_type": "seckill",
+          "goods_price": "4499",
+          "seckill_Price": "4299",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c1038b06609731b7179fcaef03627ede.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c1038b06609731b7179fcaef03627ede.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1566878924.36539833.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2193200039\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192100009",
+          "product_id": "9840",
+          "goods_name": "Redmi 7A 全网通版 3GB+32GB 磨砂黑",
+          "desc": "小巧大电量 持久流畅",
+          "seckill_type": "seckill",
+          "goods_price": "799",
+          "seckill_Price": "599",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/200900929f6da658ada294d1ea632253.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/200900929f6da658ada294d1ea632253.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1558861745.85758071.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192100009\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2193200019",
+          "product_id": "10482",
+          "goods_name": "追觅智能温控吹风机 白色",
+          "desc": "头发艺术家",
+          "seckill_type": "seckill",
+          "goods_price": "1299",
+          "seckill_Price": "1099",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/506c85dcb7550e332a3ea645e462a44b.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/506c85dcb7550e332a3ea645e462a44b.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565266781.38661798.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2193200019\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2193200040",
+          "product_id": "10493",
+          "goods_name": "RedmiBook 14I5/8G/512G SATA/MX250 灰色",
+          "desc": "十代酷睿更强劲",
+          "seckill_type": "seckill",
+          "goods_price": "4499",
+          "seckill_Price": "4299",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7b812d12c841b9c30f2c8d49c164765c.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7b812d12c841b9c30f2c8d49c164765c.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1566879173.39465687.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2193200040\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2184500005",
+          "product_id": "9046",
+          "goods_name": "米家空气检测仪",
+          "desc": "守护呼吸健康",
+          "seckill_type": "seckill",
+          "goods_price": "399",
+          "seckill_Price": "329",
+          "discount_img": "https://i8.mifile.cn/b2c-mimall-media/bf5a8bea1c1eabfc75a274b4f86dbbcb.jpg",
+          "img": "https://i8.mifile.cn/b2c-mimall-media/bf5a8bea1c1eabfc75a274b4f86dbbcb.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/40bef6bc63dca361bf48cc9ea6314ac9.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2184500005\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2184800014",
+          "product_id": "9120",
+          "goods_name": "米家智能门锁 标准锁体 碳素黑",
+          "desc": "一体化活体指纹识别，多种开锁方式",
+          "seckill_type": "goods",
+          "goods_price": "1299",
+          "seckill_Price": "1199",
+          "discount_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e9914e01e49c18e56c8017408656a729.jpg",
+          "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e9914e01e49c18e56c8017408656a729.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1543908491.84129654.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2184800014\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2172500012",
+          "product_id": "6125",
+          "goods_name": "米家wiha精修螺丝刀套装 灰色",
+          "desc": "满足大多数日常所需",
+          "seckill_type": "seckill",
+          "goods_price": "99",
+          "seckill_Price": "89",
+          "discount_img": "https://i8.mifile.cn/b2c-mimall-media/1473f8e9a31f837c6f4ded3da7bed2cd.jpg",
+          "img": "https://i8.mifile.cn/b2c-mimall-media/1473f8e9a31f837c6f4ded3da7bed2cd.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/381d81ba-237f-093b-28a0-ebcfea24dc3d.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2172500012\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2193200041",
+          "product_id": "10494",
+          "goods_name": "RedmiBook 14I5/8G/512G SATA/MX250 粉色",
+          "desc": "十代酷睿更强劲",
+          "seckill_type": "seckill",
+          "goods_price": "4499",
+          "seckill_Price": "4299",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/13b7f8b0778d1df750b20235d96756bd.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/13b7f8b0778d1df750b20235d96756bd.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1566879326.65155796.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2193200041\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191200015",
+          "product_id": "9527",
+          "goods_name": "米家扫地机器人1S 白色",
+          "desc": "看得明白扫得彻底",
+          "seckill_type": "seckill",
+          "goods_price": "1999",
+          "seckill_Price": "1699",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7ab4f0066d741443b58d5b47e2e5b72c.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7ab4f0066d741443b58d5b47e2e5b72c.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553760277.63282202.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191200015\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2193300001",
+          "product_id": "10509",
+          "goods_name": "米家变频滚筒洗衣机1S 8kg 银色",
+          "desc": "超薄机身，除菌净衣",
+          "seckill_type": "seckill",
+          "goods_price": "1399",
+          "seckill_Price": "1299",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1415ca1c8ae7a98e576ba06adfc93b72.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1415ca1c8ae7a98e576ba06adfc93b72.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565614113.69785042.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2193300001\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2193400003",
+          "product_id": "10581",
+          "goods_name": "RedmiBook 14 i7/8G/512G SATA/MX250 2G 银色",
+          "desc": "十代酷睿更强劲",
+          "seckill_type": "seckill",
+          "goods_price": "4999",
+          "seckill_Price": "4799",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c1038b06609731b7179fcaef03627ede.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c1038b06609731b7179fcaef03627ede.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1566878667.59559757.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2193400003\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191200018",
+          "product_id": "9530",
+          "goods_name": "米家压力IH电饭煲1S 白色",
+          "desc": "压力IH加热 智能烹饪 ",
+          "seckill_type": "seckill",
+          "goods_price": "1099",
+          "seckill_Price": "859",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/86234c5f8506a47391352c9d37343519.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/86234c5f8506a47391352c9d37343519.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553764670.0369286.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191200018\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2163400004",
+          "product_id": "4348",
+          "goods_name": "米家扫地机器人",
+          "desc": "智商高，扫得干净扫得快",
+          "seckill_type": "seckill",
+          "goods_price": "1699",
+          "seckill_Price": "1299",
+          "discount_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/88caa88b73ca4aaeb5f5b1c6609574cc.jpg",
+          "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/88caa88b73ca4aaeb5f5b1c6609574cc.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/7e206c06-260d-592a-3253-84c3f597a7bf.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2163400004\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192900004",
+          "product_id": "10303",
+          "goods_name": "米家智能门锁 标准锁体 磨砂金",
+          "desc": "全新磨砂金配色，精湛工艺升级",
+          "seckill_type": "seckill",
+          "goods_price": "1499",
+          "seckill_Price": "1299",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/20228f33450904674475086b5dc35f3c.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/20228f33450904674475086b5dc35f3c.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563188402.30011093.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192900004\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191900016",
+          "product_id": "9781",
+          "goods_name": "Redmi K20 6GB+128GB 碳纤黑",
+          "desc": "弹出全面屏，4800万三摄",
+          "seckill_type": "seckill",
+          "goods_price": "2099",
+          "seckill_Price": "1799",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9aa2e5457ce375e009245aa185e57a24.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9aa2e5457ce375e009245aa185e57a24.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1558854902.57319105.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191900016\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2190200031",
+          "product_id": "9270",
+          "goods_name": "米家电压力锅 白色",
+          "desc": "智能无极调压",
+          "seckill_type": "seckill",
+          "goods_price": "599",
+          "seckill_Price": "529",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/088b2e2150928479e7b425fe2117fdaa.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/088b2e2150928479e7b425fe2117fdaa.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1547105761.85222644.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2190200031\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "1192100024",
+          "product_id": "9861",
+          "goods_name": "烟灶套装（天然气）",
+          "desc": "点火排烟，风随火动",
+          "seckill_type": "seckill",
+          "goods_price": "2298",
+          "seckill_Price": "1999",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2d1d1956d9edfe72148094163681e185.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2d1d1956d9edfe72148094163681e185.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560232653.29021311.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=1192100024\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "1191300027",
+          "product_id": "9558",
+          "goods_name": "空调C1（1.5匹/一级能效）",
+          "desc": "变频节能省电，自清洁",
+          "seckill_type": "seckill",
+          "goods_price": "2799",
+          "seckill_Price": "2249",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ccfd18043892007a695bc321d4386f11.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ccfd18043892007a695bc321d4386f11.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1554108362.70322107.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=1191300027\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191900015",
+          "product_id": "9781",
+          "goods_name": "Redmi K20 6GB+128GB 火焰红",
+          "desc": "弹出全面屏，4800万三摄",
+          "seckill_type": "seckill",
+          "goods_price": "2099",
+          "seckill_Price": "1799",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a6a366e531b94721f32040feeccad77f.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a6a366e531b94721f32040feeccad77f.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1558854896.9073684.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191900015\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192000011",
+          "product_id": "9824",
+          "goods_name": "小米笔记本Pro 15.6\" 2019款 四核i5 8G MX250 512GB 深空灰",
+          "desc": "i5处理器 新一代独立显卡",
+          "seckill_type": "seckill",
+          "goods_price": "5899",
+          "seckill_Price": "5499",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/941a608df51f249aca39f1c2002a3a44.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/941a608df51f249aca39f1c2002a3a44.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1559037612.05991980.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192000011\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2181800001",
+          "product_id": "8016",
+          "goods_name": "小米净水器滤芯 反渗透 白色",
+          "desc": "有效滤除抗生素、重金属、细菌、亚硝酸盐、有机物等",
+          "seckill_type": "seckill",
+          "goods_price": "499",
+          "seckill_Price": "469",
+          "discount_img": "https://i8.mifile.cn/b2c-mimall-media/eb7f50c739406bb059b19eaea1a71cfa.jpg",
+          "img": "https://i8.mifile.cn/b2c-mimall-media/eb7f50c739406bb059b19eaea1a71cfa.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1525316758.09779938.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2181800001\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2190900004",
+          "product_id": "9408",
+          "goods_name": "米家破壁料理机 白色",
+          "desc": "营养生活，为你细致打磨",
+          "seckill_type": "seckill",
+          "goods_price": "699",
+          "seckill_Price": "629",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/00e99d964bb744d6ab8f11703440ad52.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/00e99d964bb744d6ab8f11703440ad52.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553677858.28441683.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2190900004\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192600012",
+          "product_id": "10161",
+          "goods_name": "小米CC9e 4GB+64GB 白色恋人 (白色)",
+          "desc": "3200万自拍，4800万三摄",
+          "seckill_type": "seckill",
+          "goods_price": "1299",
+          "seckill_Price": "1199",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d5fb1b5224b7443b7939287cc22b8b26.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d5fb1b5224b7443b7939287cc22b8b26.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562074206.26381851.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192600012\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2161200066",
+          "product_id": "3488",
+          "goods_name": "米家压力IH电饭煲",
+          "desc": "智能烹饪",
+          "seckill_type": "seckill",
+          "goods_price": "999",
+          "seckill_Price": "799",
+          "discount_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/15d35f6625b9791b0c8217bc50b2ea6e.jpg",
+          "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/15d35f6625b9791b0c8217bc50b2ea6e.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/T1X7V_BsJv1RXrhCrK.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2161200066\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192000010",
+          "product_id": "9822",
+          "goods_name": "小米笔记本Pro 15.6\" 2019款 四核i7 16G MX250 512GB 深空灰",
+          "desc": "i7处理器 新一代独立显卡",
+          "seckill_type": "seckill",
+          "goods_price": "7299",
+          "seckill_Price": "6899",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/941a608df51f249aca39f1c2002a3a44.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/941a608df51f249aca39f1c2002a3a44.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1558689724.63977340.png",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192000010\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2194100016",
+          "product_id": "10952",
+          "goods_name": "米家风冷对开门冰箱 483L 银色",
+          "desc": "风冷双变频，无霜不结冰",
+          "seckill_type": "seckill",
+          "goods_price": "2499",
+          "seckill_Price": "2299",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3d006596d9732827ecfcc86f321e5e57.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3d006596d9732827ecfcc86f321e5e57.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1570670535.6211177.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2194100016\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191900022",
+          "product_id": "9783",
+          "goods_name": "Redmi K20 Pro 8GB+256GB 碳纤黑",
+          "desc": "骁龙855， 弹出全面屏",
+          "seckill_type": "seckill",
+          "goods_price": "2999",
+          "seckill_Price": "2699",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/80ef0bea2e3ffcc3c71023a59ba66bf0.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/80ef0bea2e3ffcc3c71023a59ba66bf0.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1558857674.51279340.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191900022\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2164300024",
+          "product_id": "4802",
+          "goods_name": "米家空气净化器Pro",
+          "desc": "大空间，快循环",
+          "seckill_type": "seckill",
+          "goods_price": "1499",
+          "seckill_Price": "1099",
+          "discount_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f11b3f5b4a1df7e9bdfce788b6506ebb.jpg",
+          "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f11b3f5b4a1df7e9bdfce788b6506ebb.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/b315ba2c-3dc0-1352-3fbf-b23ffad1bb0f.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2164300024\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191200014",
+          "product_id": "9526",
+          "goods_name": "米家手持无线吸尘器 白色",
+          "desc": "除尘除螨黑科技",
+          "seckill_type": "seckill",
+          "goods_price": "1299",
+          "seckill_Price": "1099",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1cc3e7d4245897e2fd73b7bca07b429f.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1cc3e7d4245897e2fd73b7bca07b429f.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553825094.62581252.png",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191200014\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2183100036",
+          "product_id": "8709",
+          "goods_name": "15.6 Pro i5 8G 256G MAX-Q游戏显卡",
+          "desc": "更强悍的专业笔记本\t",
+          "seckill_type": "seckill",
+          "goods_price": "6299",
+          "seckill_Price": "5999",
+          "discount_img": "https://i8.mifile.cn/b2c-mimall-media/cd919151c6f7340c19fabc5c8e5f884d.jpg",
+          "img": "https://i8.mifile.cn/b2c-mimall-media/cd919151c6f7340c19fabc5c8e5f884d.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1533266333.04099622.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2183100036\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2193200029",
+          "product_id": "10487",
+          "goods_name": "小米9 全网通版 8GB内存 深空灰 256GB",
+          "desc": "全息幻彩机身，骁龙855",
+          "seckill_type": "seckill",
+          "goods_price": "3299",
+          "seckill_Price": "2999",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/611f5a19b939fa1d68485b3b725b863b.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/611f5a19b939fa1d68485b3b725b863b.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565339450.93196576.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2193200029\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2160800022",
+          "product_id": "3377",
+          "goods_name": "小米净水器（厨下式）白色",
+          "desc": "400加仑大流量，隐藏安装",
+          "seckill_type": "seckill",
+          "goods_price": "1999",
+          "seckill_Price": "1599",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1197a580d82dc0b030f4bc0d294c223b.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1197a580d82dc0b030f4bc0d294c223b.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/T1V2Y_BsAv1RXrhCrK.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2160800022\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191900021",
+          "product_id": "9783",
+          "goods_name": "Redmi K20 Pro 8GB+256GB 火焰红 ",
+          "desc": "骁龙855， 弹出全面屏",
+          "seckill_type": "seckill",
+          "goods_price": "2999",
+          "seckill_Price": "2699",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/503e3325392e48314c2613486559a6ee.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/503e3325392e48314c2613486559a6ee.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1558857668.87751277.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191900021\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192100017",
+          "product_id": "9850",
+          "goods_name": "米家智能门锁 霸王锁体 碳素黑",
+          "desc": "一体化活体指纹识别，多种开锁方式",
+          "seckill_type": "seckill",
+          "goods_price": "1599",
+          "seckill_Price": "1499",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b1191cc4bf08bb5fe7a1822008a67427.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b1191cc4bf08bb5fe7a1822008a67427.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1559112191.22664335.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192100017\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2183100035",
+          "product_id": "8708",
+          "goods_name": "15.6 Pro i7 16G  256G  MAX-Q",
+          "desc": "更强悍的专业笔记本",
+          "seckill_type": "seckill",
+          "goods_price": "7599",
+          "seckill_Price": "6999",
+          "discount_img": "https://i8.mifile.cn/b2c-mimall-media/cd919151c6f7340c19fabc5c8e5f884d.jpg",
+          "img": "https://i8.mifile.cn/b2c-mimall-media/cd919151c6f7340c19fabc5c8e5f884d.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1533264175.2117303.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2183100035\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191000008",
+          "product_id": "9454",
+          "goods_name": "Redmi 7 4GB+64GB 梦幻蓝 ",
+          "desc": "4000mAh超长续航",
+          "seckill_type": "seckill",
+          "goods_price": "999",
+          "seckill_Price": "899",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d2d85ae8bbd50f81d0020fcecb4b2d34.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d2d85ae8bbd50f81d0020fcecb4b2d34.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1555075844.92065764.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191000008\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2193200004",
+          "product_id": "10474",
+          "goods_name": "小米净水器 白色",
+          "desc": "无垢直饮健康纯水",
+          "seckill_type": "seckill",
+          "goods_price": "999",
+          "seckill_Price": "899",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/76a4662793769b05d2192749b456945d.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/76a4662793769b05d2192749b456945d.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565506142.80495591.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2193200004\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191000004",
+          "product_id": "9453",
+          "goods_name": "Redmi 7 3GB+32GB 魅夜红 ",
+          "desc": "4000mAh超长续航",
+          "seckill_type": "seckill",
+          "goods_price": "799",
+          "seckill_Price": "699",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0904c97d4350cdd6b963f1c3feb98631.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0904c97d4350cdd6b963f1c3feb98631.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1555075964.79242266.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191000004\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191400015",
+          "product_id": "9614",
+          "goods_name": "小米净水器600G 白色",
+          "desc": "600加仑通量，流速更快",
+          "seckill_type": "seckill",
+          "goods_price": "2499",
+          "seckill_Price": "1999",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/efae8106bc194e6a730294c9ee531caf.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/efae8106bc194e6a730294c9ee531caf.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1555486031.585971.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191400015\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191000007",
+          "product_id": "9454",
+          "goods_name": "Redmi 7 4GB+64GB 魅夜红 ",
+          "desc": "4000mAh超长续航",
+          "seckill_type": "seckill",
+          "goods_price": "999",
+          "seckill_Price": "899",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0904c97d4350cdd6b963f1c3feb98631.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0904c97d4350cdd6b963f1c3feb98631.jpg",
+          "pc_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d87194c333db9633aeb45ed6a1801203.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191000007\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2183400002",
+          "product_id": "8758",
+          "goods_name": "15.6\"笔记本 i5 8G MX110 深空灰",
+          "desc": "全面均衡的国民轻薄本",
+          "seckill_type": "seckill",
+          "goods_price": "4499",
+          "seckill_Price": "3899",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/426977e89fdb78103a9cff97f9a3a028.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/426977e89fdb78103a9cff97f9a3a028.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553929992.96973970.png",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2183400002\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192100010",
+          "product_id": "9840",
+          "goods_name": "Redmi 7A 全网通版 3GB+32GB 晨曦蓝",
+          "desc": "小巧大电量 持久流畅",
+          "seckill_type": "seckill",
+          "goods_price": "799",
+          "seckill_Price": "599",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fd7b353ddc33d9133db6a80f8aa321b2.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fd7b353ddc33d9133db6a80f8aa321b2.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1558861752.64448370.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192100010\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "1193300041",
+          "product_id": "10565",
+          "goods_name": "空调C1（大1匹/一级能效）",
+          "desc": "变频节能省电，自清洁",
+          "seckill_type": "seckill",
+          "goods_price": "2299",
+          "seckill_Price": "1899",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2db42506103ac3f34d286f94a7eded77.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2db42506103ac3f34d286f94a7eded77.jpg",
+          "pc_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f611ae04c145343ea266df4f54b41f9d.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=1193300041\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2185100019",
+          "product_id": "9161",
+          "goods_name": "米家互联网洗烘一体机10Kg 白色",
+          "desc": "智能烘干，高效净衣",
+          "seckill_type": "seckill",
+          "goods_price": "2299",
+          "seckill_Price": "1899",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0b4ba11f82f7c911035cec61f4fac511.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0b4ba11f82f7c911035cec61f4fac511.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1545975724.92496169.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2185100019\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191300015",
+          "product_id": "9546",
+          "goods_name": "小米笔记本15.6\" 2019款 四核i5 8G 512G MX110 深空灰",
+          "desc": "全面均衡的国民轻薄本",
+          "seckill_type": "seckill",
+          "goods_price": "4299",
+          "seckill_Price": "3999",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/426977e89fdb78103a9cff97f9a3a028.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/426977e89fdb78103a9cff97f9a3a028.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553738425.08569829.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191300015\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2175000293",
+          "product_id": "7522",
+          "goods_name": "米家空气净化器MAX",
+          "desc": "适用大面积，先进静音技术",
+          "seckill_type": "seckill",
+          "goods_price": "2199",
+          "seckill_Price": "1999",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/34115bdad5efa98e425606512527dd7b.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/34115bdad5efa98e425606512527dd7b.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1514092107.15719247.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2175000293\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192800005",
+          "product_id": "9840",
+          "goods_name": "Redmi7A 全网通版 3GB+32GB 雾光金 ",
+          "desc": "小巧大电量 持久流畅",
+          "seckill_type": "seckill",
+          "goods_price": "799",
+          "seckill_Price": "599",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7d916abc9ffa0da21f854337e222ace2.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7d916abc9ffa0da21f854337e222ace2.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563243759.11976150.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192800005\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2191700021",
+          "product_id": "9711",
+          "goods_name": "小米笔记本15.6\" 2019款 四核i7 8G 512G 集显 深空灰",
+          "desc": "全面均衡的国民轻薄本",
+          "seckill_type": "seckill",
+          "goods_price": "4799",
+          "seckill_Price": "4499",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/426977e89fdb78103a9cff97f9a3a028.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/426977e89fdb78103a9cff97f9a3a028.jpg",
+          "pc_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cd2aa2dcad6440b469c22e27db9b6236.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2191700021\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192900018",
+          "product_id": "10330",
+          "goods_name": "米家微波炉 白色",
+          "desc": "微晶平板速热",
+          "seckill_type": "seckill",
+          "goods_price": "399",
+          "seckill_Price": "389",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/700864a03c8d195e1a29dffe1033b78b.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/700864a03c8d195e1a29dffe1033b78b.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563787495.68116844.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192900018\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192900005",
+          "product_id": "10304",
+          "goods_name": "小米米家智能门锁 磨砂金 霸王锁体 磨砂金",
+          "desc": "适配霸王锁体，多种开锁方式",
+          "seckill_type": "seckill",
+          "goods_price": "1799",
+          "seckill_Price": "1599",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/20228f33450904674475086b5dc35f3c.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/20228f33450904674475086b5dc35f3c.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565944082.21497591.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192900005\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2193200006",
+          "product_id": "10475",
+          "goods_name": "米家扫拖机器人 黑色",
+          "desc": "扫得干净，拖得彻底",
+          "seckill_type": "seckill",
+          "goods_price": "1999",
+          "seckill_Price": "1799",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d293c22d7c0658ad1a118f6d0fa6a616.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d293c22d7c0658ad1a118f6d0fa6a616.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565665370.46592801.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2193200006\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2184300026",
+          "product_id": "9017",
+          "goods_name": "米家新风机 白色",
+          "desc": "全效解决全屋空气问题",
+          "seckill_type": "seckill",
+          "goods_price": "2699",
+          "seckill_Price": "2399",
+          "discount_img": "https://i8.mifile.cn/b2c-mimall-media/9a1f6e185c9ae49ca06dbbd2569e8266.jpg",
+          "img": "https://i8.mifile.cn/b2c-mimall-media/9a1f6e185c9ae49ca06dbbd2569e8266.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1541418170.92952541.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2184300026\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2194100017",
+          "product_id": "10953",
+          "goods_name": "米家风冷十字四门冰箱 486L 银色",
+          "desc": "风冷无霜，长久锁水保鲜",
+          "seckill_type": "seckill",
+          "goods_price": "3299",
+          "seckill_Price": "2999",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7ae6145ce01d105a80528fc5e14fb6dd.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7ae6145ce01d105a80528fc5e14fb6dd.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1570761020.76974605.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2194100017\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192700022",
+          "product_id": "10253",
+          "goods_name": "小米笔记本15.6\" 2019款 四核i7 16G 512GB 独显 深空灰 深空灰",
+          "desc": "全面均衡的国民轻薄本",
+          "seckill_type": "seckill",
+          "goods_price": "4899",
+          "seckill_Price": "4699",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/426977e89fdb78103a9cff97f9a3a028.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/426977e89fdb78103a9cff97f9a3a028.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563271929.26091488.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192700022\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2181300007",
+          "product_id": "7852",
+          "goods_name": "小米净水器1A（厨下式） 白色",
+          "desc": "小身材节省空间，大流量直出纯净水",
+          "seckill_type": "seckill",
+          "goods_price": "1499",
+          "seckill_Price": "1299",
+          "discount_img": "https://i8.mifile.cn/b2c-mimall-media/01d083243059e6fb6882e9f86f2a2e1c.jpg",
+          "img": "https://i8.mifile.cn/b2c-mimall-media/01d083243059e6fb6882e9f86f2a2e1c.jpg",
+          "pc_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/648c4899d76ed5730d5eceadbd180382.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2181300007\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2184100008",
+          "product_id": "8916",
+          "goods_name": "小米笔记本电脑 15.6\" i3 4G 128G 深空灰",
+          "desc": "全面均衡的国民轻薄本",
+          "seckill_type": "seckill",
+          "goods_price": "3399",
+          "seckill_Price": "2799",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/426977e89fdb78103a9cff97f9a3a028.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/426977e89fdb78103a9cff97f9a3a028.jpg",
+          "pc_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cd2aa2dcad6440b469c22e27db9b6236.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2184100008\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192100020",
+          "product_id": "9866",
+          "goods_name": "米家电烤箱 白色",
+          "desc": "全能烘焙体验",
+          "seckill_type": "seckill",
+          "goods_price": "299",
+          "seckill_Price": "289",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/43404b257f931fda0edee97073c7ee15.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/43404b257f931fda0edee97073c7ee15.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1559644554.04136931.jpg",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192100020\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        },
+        {
+          "goods_id": "2192000016",
+          "product_id": "9831",
+          "goods_name": "小米笔记本Air 13.3\" 2019款 四核i5 8G MX250 512GB 银色",
+          "desc": "i5处理器 新一代独立显卡",
+          "seckill_type": "seckill",
+          "goods_price": "5699",
+          "seckill_Price": "5299",
+          "discount_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/efada78a038b92d18137963431ae7da1.jpg",
+          "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/efada78a038b92d18137963431ae7da1.jpg",
+          "pc_img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1559028664.42218699.png",
+          "label_text": "",
+          "is_test": "0",
+          "action": {
+            "log_code": "31activity_homeseckill#goodsid=2192000016\u0026start_time=1571760000\u0026end_time=1571794920"
+          }
+        }
+      ]
+    }
+  }
+}
